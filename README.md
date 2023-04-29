@@ -1,14 +1,14 @@
-## Olá! Eu sou Luiz Felipe!
+## Olá! Eu sou Luiz Gustavo!
 
-- 👨‍💻 Estudando Desenvolvimento Web na Trybe / Studying Web Development at Trybe
+- 👨‍💻 Estudando Ciência da Computação na UFPB / Studying Computer Science at UFPB
 - 👦🏽 Pronouns: Ele/Dele / He/Him
 
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/luiz-felipe-31112a98/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-felipe2&theme=merko&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-felipe2&layout=compact&theme=merko" />
+  <a href="https://www.linkedin.com/in/gustavo-paixao/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopaixa1&theme=merko&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopaixa1&layout=compact&theme=merko" />
 </div>
   
   ##
