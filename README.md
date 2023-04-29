@@ -1,6 +1,7 @@
 ## Olá! Eu sou Luiz Gustavo!
 
 - 👨‍💻 Estudando Ciência da Computação na UFPB / Studying Computer Science at UFPB
+- 🖥️ Foco em back-end
 - 👦🏽 Pronouns: Ele/Dele / He/Him
 
 ##
